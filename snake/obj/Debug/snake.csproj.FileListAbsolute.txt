@@ -8,3 +8,8 @@ E:\Материалы GeekBrains\snake\snake\obj\Debug\snake.pdb
 E:\Материалы GeekBrains\snake\snake\bin\Debug\snake.exe
 E:\Материалы GeekBrains\snake\snake\bin\Debug\snake.pdb
 E:\Материалы GeekBrains\snake\snake\obj\Debug\ResolveAssemblyReference.cache
+E:\Материалы GeekBrains\snake\Kaa-git-repo\snake\obj\Debug\snake.exe
+E:\Материалы GeekBrains\snake\Kaa-git-repo\snake\obj\Debug\snake.pdb
+E:\Материалы GeekBrains\snake\Kaa-git-repo\snake\bin\Debug\snake.exe
+E:\Материалы GeekBrains\snake\Kaa-git-repo\snake\bin\Debug\snake.pdb
+E:\Материалы GeekBrains\snake\Kaa-git-repo\snake\obj\Debug\ResolveAssemblyReference.cache
